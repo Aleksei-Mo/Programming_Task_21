@@ -1,4 +1,5 @@
 ﻿// Задача 21. Напишите программу, которая принимает на вход координаты 2х точек трехмерного пространства и находит расстояние между ними.
+Console.Clear();// clear console
 Console.WriteLine("This programm finds the distance between 2 dots in 3D space.");
 
 double xA=EnterCoordinate("x","A");
